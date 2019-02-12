@@ -22,7 +22,8 @@ dependencies {
     compile 'com.google.guava:guava:23.0', 'com.google.code.gson:gson:2.8.5'
 
     // Use JUnit test framework
-    testCompile 'junit:junit:4.12'
+    // testCompile 'junit:junit:4.12'
+        testImplementation 'junit:junit:4.12'
 }
 
 // In this section you declare where to find the dependencies of your project
