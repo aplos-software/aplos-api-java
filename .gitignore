@@ -8,3 +8,5 @@ gradle/
 .classpath
 .project
 .settings/
+private.key
+config.json
