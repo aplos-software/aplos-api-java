@@ -23,7 +23,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 public class Main {
-    private static final String APLOS_DOMAIN = "www.aplos.com";
+    private static final String APLOS_DOMAIN = "app.aplos.com";
     private static final String APLOS_API = "api.key";
     private static final String APLOS_PRIVATE = "private.key";
     private static final String AUTH_ROUTE = "/hermes/api/v1/auth/";
