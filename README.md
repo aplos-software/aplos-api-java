@@ -1,5 +1,5 @@
 # Overview
-This project provides samples for using the [Aplos API](https://www.aplos.com/api) 
+This project provides samples for using the [Aplos API](https://app.aplos.com/api) 
 using the Java programming language.
 
 These examples are provided **AS IS** and should be treated only as samples, not
